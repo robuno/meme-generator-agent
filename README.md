@@ -18,7 +18,7 @@ A powerful AI agent that generates hilarious memes using open source models. Thi
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/robuno/meme-generator-agent
    cd meme-generator-agent
    ```
 

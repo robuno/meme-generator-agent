@@ -19,7 +19,7 @@ setup(
     description="A powerful AI agent that generates hilarious memes using Hugging Face models and Imgflip API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/robuno/meme-generator-agent",
+    url="https://github.com/robuno/meme-generator-ai-agent",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -47,8 +47,8 @@ setup(
     zip_safe=False,
     keywords="meme, ai, artificial-intelligence, humor, image-generation, huggingface, imgflip",
     project_urls={
-        "Bug Reports": "https://github.com/robuno/meme-generator-agent/issues",
-        "Source": "https://github.com/robuno/meme-generator-agent",
-        "Documentation": "https://github.com/robuno/meme-generator-agent#readme",
+        "Bug Reports": "https://github.com/robuno/meme-generator-ai-agent/issues",
+        "Source": "https://github.com/robuno/meme-generator-ai-agent",
+        "Documentation": "https://github.com/robuno/meme-generator-ai-agent#readme",
     },
 ) 
